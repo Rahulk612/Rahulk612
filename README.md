@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Fskills-required-to-become-a-full-stack-developer-article&psig=AOvVaw1bbn9DYtks3wcoYs9jutuz&ust=1644333763618000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjV6ejy7fUCFQAAAAAdAAAAABAD">
 <h1 align="center">Hi 👋, I'm Rahul Konda</h1>
 <h3 align="center">A passionate frontend developer from India specialize in MERN stack</h3>
 
