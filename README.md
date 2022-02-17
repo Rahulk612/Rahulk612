@@ -1,4 +1,7 @@
-<img align="center"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div align="center">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Rahul Konda</h1>
 <h3 align="center">A passionate frontend developer from India specialize in MERN stack</h3>
 
