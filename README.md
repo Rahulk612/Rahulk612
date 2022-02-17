@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahul Konda</h1>
