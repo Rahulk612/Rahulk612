@@ -1,4 +1,4 @@
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg">
+<img height="200px" width="80%" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg">
 <h1 align="center">Hi 👋, I'm Rahul Konda</h1>
 <h3 align="center">A passionate frontend developer from India specialize in MERN stack</h3>
 
